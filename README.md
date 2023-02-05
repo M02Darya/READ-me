@@ -1,3 +1,3 @@
 # READ-me
 My name is Darya
-I am start studing how t owrite code
+I am start studing how to write code
